@@ -5,6 +5,7 @@
 <p align="center">
  <a href="https://fellowship-companion.netlify.app/"><b>Live Demo</b></a>
 </p>
+> **Hacktoberfest 2026:** Proud to contribute during Hacktoberfest! 🎃
 
 ## Description
 
